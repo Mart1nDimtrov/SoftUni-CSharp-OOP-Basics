@@ -1,0 +1,1 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Lab\02. Person Class\bin\Debug\_02.Person_Class.exe.config
