@@ -3,27 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Defining_Classes___Exercise.Models;
 
-namespace Defining_Classes___Exercise
+namespace _02.Opinion_Poll
 {
     class Program
     {
         static void Main(string[] args)
         {
+            List<Person> people = new List<Person>();
             int count = int.Parse(Console.ReadLine());
-            Family fam = new Family();
-            
+
 
             for (int i = 0; i < count; i++)
             {
                 string[] member = Console.ReadLine()
                                 .Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
                                 .ToArray();
-                fam.AddMember(member[0], int.Parse(member[1]));
-
+                people.Add(new Person(member[0], int.Parse(member[1])));
             }
-            Console.WriteLine(fam.GetOldestMember());
+
+            people.Where(p => p.Age > 30)
+                  .OrderBy(p => p.Name)
+                  .ToList()
+                  .ForEach(p => Console.WriteLine(p));
 
         }
     }

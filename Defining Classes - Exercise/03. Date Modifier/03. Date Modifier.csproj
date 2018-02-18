@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{39385E76-4639-4EF4-8AAA-492D5F8526F8}</ProjectGuid>
+    <ProjectGuid>{035AD7CC-2092-4B0C-92A6-7C6A01C62B52}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Defining_Classes___Exercise</RootNamespace>
-    <AssemblyName>Defining Classes - Exercise</AssemblyName>
+    <RootNamespace>_03.Date_Modifier</RootNamespace>
+    <AssemblyName>_03.Date_Modifier</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="01. Define a Class Person.cs" />
-    <Compile Include="Models\Family.cs" />
-    <Compile Include="Models\Person.cs" />
+    <Compile Include="03. Date Modifier.cs" />
+    <Compile Include="DateModifier.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
