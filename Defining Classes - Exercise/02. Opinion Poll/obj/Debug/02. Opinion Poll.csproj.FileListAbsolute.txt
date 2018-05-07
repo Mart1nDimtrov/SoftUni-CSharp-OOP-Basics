@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\02. Opinion Poll\bin\Debug\_02.Opinion_Poll.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\02. Opinion Poll\bin\Debug\_02.Opinion_Poll.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\02. Opinion Poll\bin\Debug\_02.Opinion_Poll.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\02. Opinion Poll\obj\Debug\02. Opinion Poll.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\02. Opinion Poll\obj\Debug\_02.Opinion_Poll.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\02. Opinion Poll\obj\Debug\_02.Opinion_Poll.pdb

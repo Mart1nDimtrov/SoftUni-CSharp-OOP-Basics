@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\03. Date Modifier\bin\Debug\_03.Date_Modifier.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\03. Date Modifier\bin\Debug\_03.Date_Modifier.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\03. Date Modifier\bin\Debug\_03.Date_Modifier.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\03. Date Modifier\obj\Debug\03. Date Modifier.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\03. Date Modifier\obj\Debug\_03.Date_Modifier.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Defining Classes - Exercise\03. Date Modifier\obj\Debug\_03.Date_Modifier.pdb

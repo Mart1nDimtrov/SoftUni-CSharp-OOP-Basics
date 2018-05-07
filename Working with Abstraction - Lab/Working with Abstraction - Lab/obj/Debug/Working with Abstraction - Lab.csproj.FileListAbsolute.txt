@@ -1,0 +1,1 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\Working with Abstraction - Lab\bin\Debug\Working with Abstraction - Lab.exe.config

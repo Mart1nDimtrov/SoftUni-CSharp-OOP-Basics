@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\Working with Abstraction - Lab\bin\Debug\Working with Abstraction - Lab.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\Working with Abstraction - Lab\bin\Debug\Working with Abstraction - Lab.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\Working with Abstraction - Lab\bin\Debug\Working with Abstraction - Lab.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\Working with Abstraction - Lab\obj\Debug\01. Rhombus of Stars.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\Working with Abstraction - Lab\obj\Debug\Working with Abstraction - Lab.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\Working with Abstraction - Lab\obj\Debug\Working with Abstraction - Lab.pdb

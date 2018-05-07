@@ -17,18 +17,21 @@ namespace _02.Point_in_Rectangle.Models
         {
             this.TopLeft = top;
             this.BottomRight = bottom;
-            this.TopRight = new Point(TopLeft.X, BottomLeft.Y);
-            this.BottomLeft = new Point(BottomRight.X, TopLeft.Y);
-
+            this.TopRight = new Point(bottom.X, top.Y);
+            this.BottomLeft = new Point(top.X, bottom.Y);
         }
 
-        public bool Contains(Point p)
+        public void Contains(Point p)
         {
-            if (p.X >= )
+            if ((p.X >= TopLeft.X && p.Y >= TopLeft.Y) && (BottomRight.X >= p.X) && (BottomRight.Y >= p.Y)
+                && (BottomLeft.X <= p.X) && (BottomLeft.Y >= p.Y) && (TopRight.X >= p.X) && (TopRight.Y <= p.Y))
             {
-
+                Console.WriteLine("True");
             }
-            return true;
+            else
+            {
+                Console.WriteLine("False");
+            }
         }
     }
 }

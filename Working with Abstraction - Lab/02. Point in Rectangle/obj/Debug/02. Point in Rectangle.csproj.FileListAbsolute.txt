@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\_02.Point_in_Rectangle.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\_02.Point_in_Rectangle.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\_02.Point_in_Rectangle.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\02. Point in Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\_02.Point_in_Rectangle.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\_02.Point_in_Rectangle.pdb
