@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\03. Student System\bin\Debug\_03.Student_System.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\03. Student System\bin\Debug\_03.Student_System.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\03. Student System\bin\Debug\_03.Student_System.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\03. Student System\obj\Debug\03. Student System.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\03. Student System\obj\Debug\_03.Student_System.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\03. Student System\obj\Debug\_03.Student_System.pdb

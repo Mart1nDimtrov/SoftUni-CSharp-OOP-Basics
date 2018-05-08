@@ -17,40 +17,5 @@ namespace _02.Point_in_Rectangle.Models
             this.Y = y;
         }
 
-        /*
-       public static bool operator >=(Point p1, Point p2)
-        {
-            if (p1.X >= p2.X && p1.Y >= p2.Y)
-            {
-                return true;
-            }
-            return false;
-        }
-
-        public static bool operator <=(Point p1, Point p2)
-        {
-            if (p1.X <= p2.X && p1.Y <= p2.Y)
-            {
-                return true;
-            }
-            return false;
-        }
-        public static bool operator ==(Point p1, Point p2)
-        {
-            if (p1.X == p2.X && p1.Y == p2.Y)
-            {
-                return true;
-            }
-            return false;
-        }
-        public static bool operator !=(Point p1, Point p2)
-        {
-            if (p1.X != p2.X || p1.Y != p2.Y)
-            {
-                return true;
-            }
-            return false;
-        }
-        */
     }
 }
