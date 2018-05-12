@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\04. Hotel Reservation\bin\Debug\_04.Hotel_Reservation.exe.config
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\04. Hotel Reservation\bin\Debug\_04.Hotel_Reservation.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\04. Hotel Reservation\bin\Debug\_04.Hotel_Reservation.pdb
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\04. Hotel Reservation\obj\Debug\04. Hotel Reservation.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\04. Hotel Reservation\obj\Debug\_04.Hotel_Reservation.exe
+C:\Users\martin\Desktop\SoftUni-CSharp-OOP-Basics\Working with Abstraction - Lab\04. Hotel Reservation\obj\Debug\_04.Hotel_Reservation.pdb
